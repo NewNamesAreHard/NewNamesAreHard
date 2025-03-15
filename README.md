@@ -23,9 +23,9 @@
 
 ---
 
-<div align="center">
-
 ```c++
+void writeCode();
+
 if (!Coffee)
 {
     brewCoffee();
@@ -42,7 +42,5 @@ void writeCode()
     C++;    // Increments C
 }
 ```
-
-</div>
 
 ---
