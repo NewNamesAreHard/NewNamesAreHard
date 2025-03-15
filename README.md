@@ -21,16 +21,28 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-<p align="center">
-  <code>
-    if (!Coffee) {<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;brewCoffee(); <br>
-    } <br>
-    else
-    { <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;writeCode(); <br>
-    }
-  </code>
-</p>
+---
 
-<p align="center">C++; // Increments C!</p>
+<div align="center">
+
+```c++
+if (!Coffee)
+{
+    brewCoffee();
+}
+else
+{
+    drinkCoffee();
+}
+
+writeCode();
+
+void writeCode()
+{
+    C++;    // Increments C
+}
+```
+
+</div>
+
+---
