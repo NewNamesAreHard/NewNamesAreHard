@@ -1,5 +1,5 @@
 <h1 align="center">NewNamesAreHard</h1>
-<h3 align="center"><b>Currently studying Systems Development in C/C++</b></p>
+<h3 align="center"><b>Currently studying System Development in C/C++</b></p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=newnamesarehard&show_icons=true&locale=en" alt="newnamesarehard" /> 
