@@ -32,6 +32,11 @@
 </p>
 
 <p align="center">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331552/proxmox.svg" alt="proxmox" width="70" height="40"/> </a>
+</p>
+
+<p align="center">
     C++;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Increments C
 </p>
 
