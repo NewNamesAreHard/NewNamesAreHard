@@ -7,12 +7,12 @@
         src="https://github-readme-stats-six-phi.vercel.app/api?username=newnamesarehard&show_icons=true&locale=en"
         alt="newnamesarehard"
     />
-<p align="center">
+<!-- <p align="center">
     <img
         <img src="https://ghchart.rshah.org/newnamesarehard"
         alt="newnamesarehard"
     />
-</p>
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 
