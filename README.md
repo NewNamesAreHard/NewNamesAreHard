@@ -1,5 +1,5 @@
 <h1 align="center">NewNamesAreHard</h1>
-<h3 align="center"><b>Systems Developer C/C++<br>DevOps Engineer & Infrastructure Maintainer (Intern)</b></h3>
+<h3 align="center"><b>Systems & Embedded Developer C/C++<br>DevOps Engineer & Infrastructure Maintainer (Intern)</b></h3>
 
 <p align="center">
     <img
