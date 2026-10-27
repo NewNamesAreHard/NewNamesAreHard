@@ -8,9 +8,12 @@
 
 <p align="center">Currently working on these projects:</p>
 <p align="center">
-  • <strong>VisionAiry:</strong><br> An AI powered tool to identify, describe and rename large amount of photographs.<br>
-  • <strong>Online Notes</strong><br> A simple but fully fledged online note taking application using modern frameworks and portability through containerization.<br>
-  • <strong>Ansible Crontab.se</strong><br> An authoritative Infrastructure as Code project for managing crontab.se, its hidden management layer, and containerized hosting for multiple tenants.
+  • <strong>VisionAiry.crontab.se</strong><br> An AI powered tool to identify, describe and rename large amount of photographs.<br>
+  • <strong>OnlineNotes.crontab.se</strong><br> A simple but fully fledged online note taking application using modern frameworks and portability through containerization.<br>
+  • <strong>OpenFoodReview.crontab.se</strong><br> An open source based map of local restaurants for reviewing and organizing your favorite go-to's<br>
+  • <strong>Chatstats.crontab.se</strong><br> A utility for seeing and analyzing viewer engagement on twitch.tv channels.<br>
+  • <strong>Dailymath.crontab.se</strong><br> A collection of 2000+ math problems based on the swedish Matematik 1b curriculum.<br>
+  • <strong>Ansible @ Crontab.se</strong><br> An authoritative Infrastructure as Code project for managing crontab.se, its hidden management layer, and containerized hosting for multiple tenants.
 </p>
 
 <p align="center">
