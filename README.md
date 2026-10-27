@@ -42,11 +42,6 @@
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center" width="60">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
       </a>
@@ -54,6 +49,11 @@
     <td align="center" width="60">
       <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
       </a>
     </td>
   </tr>
@@ -91,13 +91,18 @@
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+      <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
       </a>
     </td>
     <td align="center" width="60">
@@ -105,20 +110,23 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
       </a>
     </td>
-    <td align="center" width="60">
-      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
-      </a>
-    </td>
   </tr>
   <tr>
+    <td align="center" width="60">
+      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+      </a>
+    </td>
     <td align="center" width="60">
       <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/331552/proxmox.svg" alt="Proxmox" width="50" height="40" />
       </a>
     </td>
-    <td align="center" width="60"></td>
-    <td align="center" width="60"></td>
+    <td align="center" width="60">
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
+      </a>
+    </td>
     <td align="center" width="60"></td>
     <td align="center" width="60"></td>
   </tr>
