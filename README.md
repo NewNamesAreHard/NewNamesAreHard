@@ -1,8 +1,9 @@
 <h1 align="center">NewNamesAreHard</h1>
 <h3 align="center">
   <b>
-    Systems & Embedded Developer C/C++<br>
-    DevOps Engineer & Systems/Infrastructure Administrator
+    Systems & Embedded Developer • C/C++, RTOS, Desktop<br>
+    DevOps Engineer & Systems/Infrastructure Administrator<br>
+    C# .NET Developer & Windows application Developer<br>
   </b>
 </h3>
 
